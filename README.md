@@ -1,7 +1,10 @@
 # InteligenciaaArtificial-Laboraatorio4-Peerceptron
 implementacion de peerceptron IA2021 Laboraatorio 4
-Se implemento el perceptron con todo lo pedido en clase entonces primeramente veamos las especificaciones:
+
 Integrante : Alvaro Diego Durand 
+
+Se implemento el perceptron con todo lo pedido en clase entonces primeramente veamos las especificaciones:
+
 1.El codigo fue realizado en c++ usando la libreria OpenGL para tratar todo el tema de animacion
 
 2.El menu del codigo te pedira el numero de columnas y filas en el cual tendras que ingresar por
